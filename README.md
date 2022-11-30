@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+ಈ ಯೋಜನೆಯನ್ನು [ಕ್ರಿಯೇಟ್ ರಿಯಾಕ್ಟ್ ಅಪ್ಲಿಕೇಶನ್] (https://github.com/facebook/create-react-app) ಜೊತೆಗೆ ಬೂಟ್‌ಸ್ಟ್ರಾಪ್ ಮಾಡಲಾಗಿದೆ.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+ಆರೋಗ್ಯ ಅಪ್ಲಿಕೇಶನ್ ವೆಬ್‌ಸೈಟ್, ರಕ್ತ-ಸಕ್ಕರೆ ಬದಲಾವಣೆಗಳು, BMI ಮತ್ತು ರಕ್ತದೊತ್ತಡವನ್ನು ಗುರುತಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ
+
+ಪ್ರದರ್ಶನ ವೀಡಿಯೊ:
+![678088ecedf93d27d19f2f3d72ce06b73ca61e19](https://user-images.githubusercontent.com/93060367/204789104-b9d549a3-a109-468e-87f8-fdccc11c43f9.gif)
